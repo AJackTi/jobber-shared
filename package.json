@@ -18,8 +18,8 @@
   "name": "@ajackti/jobber-shared",
   "author": "AJackTi <dtrong97vn@gmail.com>",
   "repository": {
-    "type": "git+https://github.com/AJackTi/jobber-shared.git",
-    "url": ""
+    "type": "",
+    "url": "git+https://github.com/AJackTi/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
